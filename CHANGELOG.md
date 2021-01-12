@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/nodejs-spanner?activeTab=versions
 
+## [5.5.0](https://www.github.com/googleapis/nodejs-spanner/compare/v5.4.0...v5.5.0) (2021-01-12)
+
+
+### Features
+
+* adds style enumeration ([#1292](https://www.github.com/googleapis/nodejs-spanner/issues/1292)) ([dcf7013](https://www.github.com/googleapis/nodejs-spanner/commit/dcf7013907f8e232d0b99303a6d30be598944db9))
+
+
+### Bug Fixes
+
+* **sample-test:** ensure instance is created before proceeding with tests ([#1291](https://www.github.com/googleapis/nodejs-spanner/issues/1291)) ([577357a](https://www.github.com/googleapis/nodejs-spanner/commit/577357ab8f8cdac70f5483312c7618c6e403fd26))
+
 ## [5.4.0](https://www.github.com/googleapis/nodejs-spanner/compare/v5.3.0...v5.4.0) (2020-12-02)
 
 
